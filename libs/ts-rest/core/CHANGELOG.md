@@ -1,5 +1,11 @@
 # @ts-rest/core
 
+## 3.53.0
+
+### Patch Changes
+
+- 2c6367c: Fix handling of responses with no body and content type json header
+
 ## 3.52.1
 
 ### Patch Changes
